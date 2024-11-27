@@ -1,0 +1,21 @@
+,LSOA_CODE,LOCAL_AUTHORITY_LABEL,ENERGY_CONSUMPTION_CURRENT,ENERGY_CONSUMPTION_POTENTIAL,CURRENT_ENERGY_RATING,POTENTIAL_ENERGY_RATING,CURRENT_ENERGY_EFFICIENCY,POTENTIAL_ENERGY_EFFICIENCY,ENVIRONMENT_IMPACT_CURRENT,ENVIRONMENT_IMPACT_POTENTIAL,TOTAL_FLOOR_AREA,WINDOWS_DESCRIPTION,CONSTRUCTION_AGE_BAND,TENURE,BUILT_FORM,PROPERTY_TYPE,ENERGY_CONSUMPTION_GAP,ENERGY_EFFICIENCY_GAP,ENVIRONMENT_IMPACT_GAP
+0,S01006907,Aberdeenshire,339.0,161.0,D,C,64,78,67,84,32.0,full double glazing,1930-1949,rented (social),Mid-Terrace,Flat,178.0,14,17
+1,S01009541,Fife,212.0,78.0,D,B,66,88,70,90,70.0,full double glazing,1992-1998,owner-occupied,Mid-Terrace,House,134.0,22,20
+2,S01009343,Fife,182.0,93.0,C,B,70,85,71,87,96.0,full double glazing,1965-1975,owner-occupied,Mid-Terrace,House,89.0,15,16
+3,S01012086,Renfrewshire,224.0,121.0,D,B,66,82,64,81,85.0,full double glazing,1965-1975,owner-occupied,End-Terrace,House,103.0,16,17
+4,S01011948,Perth and Kinross,224.0,132.0,D,C,63,79,56,75,224.0,full double glazing,before 1919,owner-occupied,Semi-Detached,House,92.0,16,19
+5,S01010284,Glasgow City,467.0,146.0,E,C,49,78,43,81,55.0,full double glazing,before 1919,owner-occupied,Mid-Terrace,Flat,321.0,29,38
+6,S01010909,Inverclyde,183.0,100.0,C,B,71,81,72,84,76.0,full double glazing,before 1919,rented (private),Enclosed End-Terrace,Flat,83.0,10,12
+7,S01006570,Aberdeen City,367.0,211.0,D,C,62,75,60,77,45.0,full double glazing,before 1919,owner-occupied,End-Terrace,Flat,156.0,13,17
+8,S01009182,Falkirk,113.0,108.0,C,B,80,81,77,78,216.0,full double glazing,1999-2002,owner-occupied,Detached,House,5.0,1,1
+9,S01008390,East Renfrewshire,510.0,100.0,F,B,31,84,29,84,91.0,full double glazing,1930-1949,owner-occupied,Detached,Bungalow,410.0,53,55
+1841753,E01005063,Manchester,374.0,210.0,D,C,55,71,49,71,56.0,mixed glazing,1967-1975,rented (private),Semi-Detached,Flat,164.0,16,22
+1841754,E01005061,Manchester,87.0,76.0,B,B,81,82,85,87,86.0,full double glazing,2007 onwards,owner-occupied,Semi-Detached,House,11.0,1,2
+1841755,E01005076,Manchester,214.0,214.0,C,C,73,73,76,76,37.0,full double glazing,1900-1929,rented (private),Enclosed End-Terrace,Flat,0.0,0,0
+1841756,E01005240,Manchester,211.0,97.0,D,B,68,85,62,82,101.0,full double glazing,1900-1929,owner-occupied,Mid-Terrace,House,114.0,17,20
+1841757,E01005268,Manchester,302.0,125.0,D,B,59,83,52,79,81.0,mixed glazing,1900-1929,owner-occupied,Semi-Detached,House,177.0,24,27
+1841758,E01005299,Manchester,98.0,46.0,B,B,81,91,83,92,112.0,high performance glazing,2007 onwards,unknown,Semi-Detached,House,52.0,10,9
+1841759,E01005206,Manchester,219.0,94.0,D,B,68,86,68,86,69.0,full double glazing,1900-1929,rented (social),Mid-Terrace,House,125.0,18,18
+1841760,E01005123,Manchester,231.0,134.0,D,B,65,81,60,76,97.0,full double glazing,1967-1975,owner-occupied,Semi-Detached,House,97.0,16,16
+1841761,E01005083,Manchester,252.0,188.0,C,C,72,76,75,81,31.0,full double glazing,1900-1929,rented (private),Mid-Terrace,Flat,64.0,4,6
+1841762,E01005207,Manchester,304.0,158.0,D,B,62,81,56,77,66.0,full double glazing,1900-1929,rented (private),Mid-Terrace,House,146.0,19,21
