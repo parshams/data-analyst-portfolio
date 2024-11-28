@@ -36,13 +36,18 @@ This project explores EPC ratings (Energy Performance Certificate) in the UK usi
   - **`unzipping_EPC_data.py`:** Python script which unpacks the downloaded files and saves them
   - **`cleaning_EPC_data.py`:** Python script which cleans and joins the Scottish and Manchester data sets
   - **`EPC_visual_map.r`:** R script which creates an interactive map of Scottish energy efficiency gap per LSOA
+  - **`epc_joined_data_queries.sql`** PostgreSQL queries on the joined data
 - **`visuals/`** 
-  - **`scot_energy_gap_by_lsoa.html`:** Interactive map of Scotland showcasing the energy efficiency gap per LSOA
+  - **`scot_energy_gap_by_lsoa.html`:** Interactive map of Scotland showcasing the energy efficiency gap per LSOA.
+
+  NOTE ON THE MAP: You must download the file (`scot_energy_gap_by_lsoa.html`) and the accompanying folder to be able to view it as an interactive map in your browser.
+  Some still images of the map have also been included.
+    
 ---
 
 ## Key Insights
-- Properties in rural areas of Scotland tend to have lower energy efficiency compared to those in cities. However, they show greater potential for improvement, particularly through measures such as installing high-performance glazing on windows.
-- Newer built properties have better energy efficiency than properties built before 1900.
+- Houses in rural areas of Scotland tend to have lower energy efficiency compared to those in cities. However, they show greater potential for improvement, particularly through measures such as installing high-performance glazing on windows.
+- 
 
 ---
 
