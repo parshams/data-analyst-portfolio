@@ -9,12 +9,14 @@ This project explores EPC ratings (Energy Performance Certificate) in the UK usi
 
 ## Project Overview
 - **Objective:** Join EPC data from various regions across the UK, conduct statistical analysis, and generate visuals to interpret the findings.
+  
 - **Key Steps:**
-  1. Data cleaning and preprocessing
-  2. Exploratory data analysis (EDA)
-  3. Feature engineering
-  4. Statistical analysis
-  5. Data Visualization and Insights Communication
+  1. Data collection, extraction and anonymisation
+  2. Data cleaning and preprocessing
+  3. Data joining, ensuring consistency
+  4. Exploratory data analysis (EDA) and statistical analysis
+  5. Data visualisation and insights communication
+     
 - **Data Sources:**
   - Scotland EPC data
     https://statistics.gov.scot/data/domestic-energy-performance-certificates
@@ -26,7 +28,6 @@ This project explores EPC ratings (Energy Performance Certificate) in the UK usi
     https://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/7d3e8709-98fa-4d71-867c-d5c8293823f2
   - England & Wales geospatial data
     https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2011-boundaries-ew-bfc-v3/about
-
 
 ---
 
@@ -60,6 +61,7 @@ This project explores EPC ratings (Energy Performance Certificate) in the UK usi
 ---
 
 ## Next Steps
+- Scale up the project to include data from the entirety of England & Wales, building upon data processing of Manchester.
 - Incorporate additional data to create a model predicting fuel poverty based on SIMD, EPC data and property data.  
 
 ---
